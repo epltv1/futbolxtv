@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://b1g.ooo:80/live/Richard1/Richard123/871399.ts
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://sup-4k.org:80/play/live.php?mac=00:1A:79:59:14:26&stream=1586376&extension=m3u8
