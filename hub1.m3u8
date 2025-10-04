@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://line.free-tv.pro:80/play/live.php?mac=00:1A:79:e6:87:fd&stream=1032529&extension=.m3u8
