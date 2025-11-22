@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:5E:6F:0A&stream=1902358&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:79:FB:D4&stream=827940&extension=m3u8
